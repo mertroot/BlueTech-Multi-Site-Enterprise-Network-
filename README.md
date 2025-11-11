@@ -33,7 +33,7 @@ Amaç, **Türkiye (TR-Domain)** ve **ABD (US-Domain)** ofisleri arasında **güv
 ---
 
 ## Proje İçeriği
- **BlueTech_Multi-Site_Enterprise_Network_Dokümantasyonu.pdf**  
+ **[BlueTech Multi-Site Enterprise Network Dokümantasyonu (PDF)](https://github.com/mertroot/BlueTech-Multi-Site-Enterprise-Network-/blob/main/BlueTech_Multi-Site_Enterprise_Network_Dokumantasyonu.pdf)**  
 Bu tek doküman içerisinde yer alan bölümler:
 - Proje Tanımı ve Amaç  
 - Ağ Topolojisi ve Bileşenler  
