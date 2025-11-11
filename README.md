@@ -1,7 +1,6 @@
 # 🛰️ BlueTech Multi-Site Enterprise Network (Simülasyon Projesi)
 
-Bu proje, **BlueTech** adlı kurgusal bir firmaya ait **çok lokasyonlu bir Active Directory ve FortiGate altyapısının** simülasyonunu içermektedir.  
-Amaç, **Türkiye (TR-Domain)** ve **ABD (US-Domain)** ofisleri arasında **güvenli, merkezi yönetim destekli ve yedekli** bir ağ yapısını modellemektir.
+Bu proje, BlueTech adlı kurgusal bir firmaya ait çok lokasyonlu bir Active Directory ve FortiGate altyapısının simülasyonunu içermektedir.
 
 ---
 
