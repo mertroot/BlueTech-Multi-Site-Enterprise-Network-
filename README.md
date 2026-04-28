@@ -58,50 +58,57 @@ Gerçek bir firma yerine senaryo ortamında hazırlanmış olup, **Active Direct
 
 EN
 
-#🛰️ BlueTech Multi-Site Enterprise Network (Simulation Project)
+# 🛰️ BlueTech Multi-Site Enterprise Network (Simulation Project)
 
-This project simulates a multi-location Active Directory and FortiGate infrastructure for a fictional company called BlueTech.
+This project simulates a multi-location Active Directory and FortiGate infrastructure for a fictional company called **BlueTech**.
 
-##Project Overview
-Configured DNS Zone Replication and Two-Way Forest Trust between two domains.
-Implemented Group Policy Objects (GPOs) for user, group, and security management.
-Secured network infrastructure using FortiGate VM64 with NAT, VPN, and firewall policies.
-Entire environment was deployed and tested in VMware Workstation virtual lab.
+---
 
-##Technologies Used
+## 📌 Project Overview
+- Configured **DNS Zone Replication** and **Two-Way Forest Trust** between two domains  
+- Implemented **Group Policy Objects (GPOs)** for user, group, and security management  
+- Secured network infrastructure using **FortiGate VM64** with NAT, VPN, and firewall policies  
+- Entire environment was deployed and tested in a **VMware Workstation virtual lab**
 
-Windows Server 2016 Datacenter (Active Directory, DNS, DHCP)
-Windows 11 Pro (Client systems)
-FortiGate VM64 v7.x (Firewall, VPN, NAT)
-VMware Workstation 17 Pro (Virtualization platform)
+---
 
-## Network Architecture
+## ⚙️ Technologies Used
+- Windows Server 2016 Datacenter (Active Directory, DNS, DHCP)  
+- Windows 11 Pro (Client systems)  
+- FortiGate VM64 v7.x (Firewall, VPN, NAT)  
+- VMware Workstation 17 Pro (Virtualization platform)  
 
-Turkey Office — BlueTech.local — 192.168.10.0/24
-USA Office — BlueTechUSA.local — 172.16.0.0/24
-WAN — FortiGate — 192.168.1.5/24 (Site-to-Site VPN Connection)
+---
 
-##Project Documentation
+## 🌐 Network Architecture
+- Turkey Office — BlueTech.local — 192.168.10.0/24  
+- USA Office — BlueTechUSA.local — 172.16.0.0/24  
+- WAN — FortiGate — 192.168.1.5/24 (Site-to-Site VPN Connection)  
 
-BlueTech Multi-Site Enterprise Network Documentation (PDF)
-https://github.com/mertroot/BlueTech-Multi-Site-Enterprise-Network-/blob/main/BlueTech_Multi-Site_Enterprise_Network_Dokumantasyonu.pdf
+---
 
-Includes:
+## 📁 Project Documentation
+BlueTech Multi-Site Enterprise Network Documentation (PDF)  
+https://github.com/mertroot/BlueTech-Multi-Site-Enterprise-Network-/blob/main/BlueTech_Multi-Site_Enterprise_Network_Dokumantasyonu.pdf  
 
-Project Description and Objectives
-Network Topology and Components
-OU Structure and User Management
-Group Policy (GPO) Configurations
-Security Settings
-System Requirements
-Conclusion and Evaluation
-Prepared By
+### Includes:
+- Project Description and Objectives  
+- Network Topology and Components  
+- OU Structure and User Management  
+- Group Policy (GPO) Configurations  
+- Security Settings  
+- System Requirements  
+- Conclusion and Evaluation  
 
-##Mert Bacara
-Junior System & Network Specialist
-2025
+---
+
+## 👨‍💻 Prepared By
+**Mert Bacara**  
+Junior System & Network Engineer  
+2025  
 LinkedIn: https://www.linkedin.com/in/mertbacara/
 
-##Conclusion
+---
 
-This project demonstrates how an enterprise network infrastructure can be designed, implemented, and secured in a multi-site environment. It was built as a virtual lab scenario showcasing real-world integration of Active Directory, DNS, GPO, and FortiGate security solutions.
+## 🧩 Conclusion
+This project demonstrates how an enterprise network infrastructure can be designed, implemented, and secured in a multi-site environment. It was built as a virtual lab scenario showcasing real-world integration of **Active Directory, DNS, GPO, and FortiGate security solutions**.
